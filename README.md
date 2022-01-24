@@ -6,8 +6,7 @@
 
  1. The program runs from the menu.py file. Enter **python menu.py** to run the function. 
  2. A pygame window will open with the game menu. Here you can choose to play Single Player, Multi Player or to quit.
- 
-![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT1.PNG?raw=true)
+ ![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT1.PNG?raw=true)
 
  3. Click on **Single** to play against the AI. A window will open with 9 boxes, click on one of the boxes to make your move. Since you are playing against the AI, the computer's move will show up automatically. 
  
